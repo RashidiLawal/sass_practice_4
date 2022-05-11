@@ -1,0 +1,21 @@
+.old-light-dark {
+  background-image: linear-gradient(#d63223, #be6057, #86170c); }
+
+.wolverine {
+  text-align: center;
+  background-image: linear-gradient(rgba(190, 96, 87, 0.5), #be6057, #ac6f69);
+  border-radius: 50%;
+  height: 60rem;
+  width: 60rem;
+  margin-left: 4rem; }
+  .wolverine:hover {
+    background-image: linear-gradient(#69a6ac, #57b5be, rgba(87, 181, 190, 0.5)); }
+    .wolverine:hover .wolverine-text {
+      color: rgba(243, 233, 16, 0.7);
+      opacity: 0.8; }
+  .wolverine-text {
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    color: #e2cd25; }
+  .wolverine img {
+    margin-top: 3rem; }
